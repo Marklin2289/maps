@@ -1,1 +1,2 @@
-console.log("hello there");
+import { User } from "./User";
+// { } importing multiple components
